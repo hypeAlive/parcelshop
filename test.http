@@ -18,4 +18,5 @@ Content-Type: application/json
 }
 
 ###
+GET http://localhost:8080/api/v1/parcels/out-for-delivery?date=20200421
 
